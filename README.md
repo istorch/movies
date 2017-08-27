@@ -1,6 +1,6 @@
 # movies
 
-My name is Isaac Storch, and this is my github repository for a data science side project that I am working on.
+This was a data science side project that I worked on after graduating with my Ph.D. and before my first industry job at OpenX.
 
 The ultimate goal is to be able to use machine learning algorithms to predict the scores that critics will assign to a new movie.
 
